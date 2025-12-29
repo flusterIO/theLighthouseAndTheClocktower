@@ -1,0 +1,34 @@
+\providecommand{\newblock}{}
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+% Bibliography created with iopart-num v2.1
+% /biblio/bibtex/contrib/iopart-num
+
+\bibitem{einstein1905electrodynamics}
+Einstein A {\em et~al.\/} 1905 {\em Annalen der physik\/} {\bf 17} 891--921
+
+\bibitem{gordon_determining_2008}
+Gordon C, Land K and Slosar A 2008 {\em Monthly Notices of the Royal Astronomical Society\/} {\bf 387} 371--376 ISSN 0035-8711 \urlprefix\url{https://doi.org/10.1111/j.1365-2966.2008.13239.x}
+
+\bibitem{Singal_2022}
+Singal A~K 2022 {\em Monthly Notices of the Royal Astronomical Society\/} {\bf 511} 1819--1829 \urlprefix\url{https://doi.org/10.1093%2Fmnras%2Fstac144}
+
+\bibitem{wagenveld_2025}
+{Wagenveld, J D}, {von Hausegger, S}, {Klöckner, H-R} and {Schwarz, D J} 2025 {\em A&A\/} {\bf 697} A112 \urlprefix\url{https://doi.org/10.1051/0004-6361/202453397}
+
+\bibitem{land_mali_lewis_2025}
+Land-Strykowski M, Lewis G~F and Murphy T 2025 {\em Monthly Notices of the Royal Astronomical Society\/} {\bf 543} 3229--3241 ISSN 0035-8711 (\textit{Preprint} \eprint{https://academic.oup.com/mnras/article-pdf/543/4/3229/64415852/staf1621.pdf}) \urlprefix\url{https://doi.org/10.1093/mnras/staf1621}
+
+\bibitem{rasouli2025addressingdipoletensionclustering}
+Rasouli A~D, Tadayyoni H~S, Baghram S and Rahvar S 2025 Addressing dipole tension via clustering in $\lambda$cdm and beyond (\textit{Preprint} \eprint{2508.18259}) \urlprefix\url{https://arxiv.org/abs/2508.18259}
+
+\bibitem{General_Relativity}
+{Einstein, Albert} 1916 {\em {Annalen der Physik}\/} {\bf 354} 769--822
+
+\bibitem{eddington_experiment}
+Dyson F~W, Eddington A~S and Davidson C 1920 {A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Total Eclipse of May 29, 1919} \urlprefix\url{https://doi.org/10.1098/rsta.1920.0009}
+
+\end{thebibliography}
