@@ -4,6 +4,10 @@ make_sure_youre_sitting_down.fls
 make_sure_youre_sitting_down.log
 make_sure_youre_sitting_down.out
 make_sure_youre_sitting_down.synctex.gz
+make_sure_youre_sitting_down.bbl
+make_sure_youre_sitting_down.bbl
+make_sure_youre_sitting_down.blg
+*.pdf
 orcid.pdf
 example.tex
 sparc_cache
